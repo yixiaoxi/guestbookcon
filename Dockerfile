@@ -1,2 +1,2 @@
-FROM gcr.io/google_samples/gb-redisslave:v3
+FROM gcr.io/google_samples/gb-frontend:v4
 MAINTAINER XIAOXI
