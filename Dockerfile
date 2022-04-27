@@ -1,2 +1,2 @@
-FROM googlecontainer/redis:e2e
+FROM grc.io/google_containers/redis:e2e
 MAINTAINER XIAOXI
